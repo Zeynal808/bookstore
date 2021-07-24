@@ -246,3 +246,9 @@
     opacity: 1;
     transition-delay: 1.7s;
 }
+.hover-btn
+{
+    background: linear-gradient(45deg, #1f4037,#99f2c8);
+    color: white;
+    border-radius: 20px;
+}
